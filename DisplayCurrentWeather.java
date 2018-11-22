@@ -16,7 +16,12 @@ import com.mongodb.client.MongoDatabase;
 
 /** 
  *  DisplayCurrentWeather class displays weather information from mongoDB data
+ *  
+ * @author  Nicolas Girault
+ * @version 1.0
+ * @since   2018-10-25 
  */
+
 public class DisplayCurrentWeather {
 	
 	static final String MONGODB_URI = "mongodb+srv://Admin:nimda8102@cluster0-cbecc.mongodb.net/admin";
