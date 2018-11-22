@@ -21,6 +21,10 @@ import com.mongodb.client.model.Filters;
 
 /** 
  *  GetWeather class get weather info from openweathermap and save them in mongoDB data
+ *
+ * @author  Nicolas Girault
+ * @version 1.0
+ * @since   2018-10-25 
  */
 public class GetWeather {
 	
